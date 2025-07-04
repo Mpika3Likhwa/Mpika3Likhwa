@@ -6,13 +6,15 @@ Alongside my major, I have completed one year of Mathematics and two years of St
 I am currently studying **Introduction to Software Engineering** and **Data Structures & Algorithms**.
 My journey in technology has been driven by curiosity and a desire to build solutions that make a difference. 
 
-I am currently focusing on:
-- **Java OOP** and transitioning into **Data Structures & Algorithms**
-- **ASP.NET C# Web Application Development** with **WCF services**
-- **Remote Database Hosting & API Development**
-- **Networking in Java**
-- **Data Analysis using R in Statistics**
-- **Database Design & Management**, including modeling and performing CRUD operations
+Through my studies at the University of Johannesburg, I've had the pleasure of working with and growing in areas such as:
+
+- **Java Object-Oriented Programming (OOP)**, transitioning into **Data Structures & Algorithms**
+- **ASP.NET C# Web Application Development** using **HTTP-based APIs**
+- **.NET MAUI Application Development** that consumes my custom APIs
+- **Remote Database Hosting & API Development**, currently using **Railway**
+- **Networking in Java**, including client-server communication
+- **Data Analysis with R** for statistical insights
+- **Database Design & Management**, including data modeling and performing full **CRUD operations**
 
 ## 🚀 Technologies & Tools
 Here are some of the tools and technologies I have worked with:
